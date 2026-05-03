@@ -1,5 +1,5 @@
 {
-  "name": "node-ts-api-template",
+  "name": "books-api-node",
   "version": "1.0.0",
   "main": "dist/server.js",
   "license": "MIT",
