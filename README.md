@@ -1,4 +1,4 @@
-# Node + TypeScript API Template
+# Books API 
 
 A production-ready Node.js + TypeScript API template featuring **Express**, **Knex**, **Zod** validation, and a clean layered architecture.  
 Designed for building scalable backend services with clear separation of concerns and a strong developer experience.
